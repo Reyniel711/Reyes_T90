@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Reyes, Reyniel Mark Lusdoc",
+            "Age": "23",
+            "Favorite_Quote": "Inspiration does exist, but it must find you working -Pablo Picasso"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001104062@student.buksu.edu.ph"
+        }
+    ]
+}
